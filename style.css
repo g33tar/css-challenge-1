@@ -1,0 +1,10 @@
+h1 {
+  font-family: helvetica;
+}
+.bunny-list li {
+  display: block;
+  list-style-type: none;
+}
+footer {
+  color: grey;
+}
